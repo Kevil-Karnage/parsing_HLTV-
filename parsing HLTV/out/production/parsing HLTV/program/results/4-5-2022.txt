@@ -1,0 +1,32 @@
+AGO 0 - 2 SKADE
+Event: Pinnacle Cup IV
+Map: bo3
+
+ex-Black Dragons 12 - 16 UNO MILLE
+Event: ESL Pro League Season 16 Conference SA Open Qualifier
+Map: nuke
+
+Meta BR 16 - 10 River Plate
+Event: ESL Pro League Season 16 Conference SA Open Qualifier
+Map: anc
+
+SWS 13 - 16 WINDINGO
+Event: ESL Pro League Season 16 Conference SA Open Qualifier
+Map: ovp
+
+Boca Juniors 3 - 16 Los Grandes
+Event: ESL Pro League Season 16 Conference SA Open Qualifier
+Map: inf
+
+ARCTIC 16 - 11 Cruzeiro
+Event: ESL Pro League Season 16 Conference SA Open Qualifier
+Map: anc
+
+Stars Horizon 16 - 8 10org
+Event: ESL Pro League Season 16 Conference SA Open Qualifier
+Map: vtg
+
+Sao Caetano 16 - 12 laMafia
+Event: ESL Pro League Season 16 Conference SA Open Qualifier
+Map: mrg
+
