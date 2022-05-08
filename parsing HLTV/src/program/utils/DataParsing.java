@@ -7,7 +7,6 @@ import org.jsoup.select.Elements;
 import program.models.Match;
 
 import java.io.FileOutputStream;
-import java.text.ParseException;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
